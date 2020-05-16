@@ -2,7 +2,7 @@
 
 
 ## Arweave Lucky Number 
-The website is on:
+The website is on: https://23hrur44c2ld.arweave.net/E4ywHENVddJCFH4ahm2ezOivh73tzagMCZSeCNaHlxE
 
 
 ## Available Scripts
